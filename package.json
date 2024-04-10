@@ -1,0 +1,26 @@
+{
+  "name": "design_patterns",
+  "version": "1.0.0",
+  "description": "Implementation Design Patterns",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "ts-node": "^10.9.2",
+    "typescript": "^5.4.4"
+  },
+  "scripts": {
+    "build": "tsc -p tsconfig.json",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Julia-Dubenchuk/design_patterns.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Julia-Dubenchuk/design_patterns/issues"
+  },
+  "homepage": "https://github.com/Julia-Dubenchuk/design_patterns#readme"
+}
